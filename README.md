@@ -1,6 +1,6 @@
-##### 👋 Greetings
+#### 👋 Greetings
 $\hspace{50pt}$ I am a practitioner who seamlessly evolved from a Backend Developer into a Data Analyst. Within every developer lies an innate curiosity to understand not only how things work but also why. I felt this urge growing stronger as they yearned to decipher the hidden stories concealed within the data flows.
-##### 🎯 My journey to being a Data Analyst
+#### 🎯 My journey to being a Data Analyst
 
 $\hspace{50pt}$ In the dynamic landscape of data, where insights hold the keys to innovation, embarking on the path of a Data Analyst is a voyage of endless discovery and growth. This blog unveils a roadmap, comprised of five pivotal steps, that illuminate the trajectory from aspiring enthusiasts to seasoned data storytellers.
 
@@ -17,6 +17,6 @@ Education is the wind beneath the wings of transformation. Here, we delve into t
 Theory without practice is like a ship without sails. This step emphasizes the value of hands-on experience. Learn to navigate data lakes, execute real-world analyses, and craft insights from scratch. Individual projects become your proving ground, where theories come to life and skills are honed.
 
 
-##### Let's commence this voyage together.
+#### Let's commence this voyage together.
 
-##### 🎯 My blog: <a href="https://namke-dev.github.io/">namke-dev.github.io</a>
+#### 🎯 My blog: <a href="https://namke-dev.github.io/">namke-dev.github.io</a>
