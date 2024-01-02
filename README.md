@@ -1,8 +1,6 @@
-## 👋 Greetings
+### 👋 Greetings
 
 Hello 🤸, I'm a Backend Developer with experience in web application development.
-
-## 🎯 My journey to being a Data Analyst
 
 💻 My experience includes:
 - Main skills: Developing applications using ASP.NET and REST API, Using algorithms to solve problems
@@ -21,6 +19,5 @@ Hello 🤸, I'm a Backend Developer with experience in web application developme
 - Continuously learn and improve
 - Collaborate and communicate effectively with diverse teams and stakeholders
 
-## Let's commence this voyage together.
 
-## 🎯 My portfolio: [namke.vercel.app](https://namke.vercel.app/)
+### 🎯 My portfolio: [namke.vercel.app](https://namke.vercel.app/)
