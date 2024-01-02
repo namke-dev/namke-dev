@@ -11,13 +11,9 @@ Hello 🤸, I'm a Backend Developer with experience in web application developme
 - Knowledgeable about Project Development Processes, Agile, Scrum
 - Languages Coursework: Upper Intermediate English
 
----
-
 🎓 **Education**: May 2019 - May 2023 Study Software Engineering at FPT University
 - Bachelor's Degree: Software Engineering
 - Relevant coursework: Data Structures and Algorithms, Cloud Computing, Software Architecture, Business Communication.
-
----
 
 📈 **My aims**:
 - Advance my career as a senior back-end developer
