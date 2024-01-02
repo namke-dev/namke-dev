@@ -27,4 +27,4 @@ Hello 🤸, I'm a Backend Developer with experience in web application developme
 
 ## Let's commence this voyage together.
 
-## 🎯 My blog: [namke-dev.github.io](https://namke-dev.github.io/)
+## 🎯 My portfolio: [namke.vercel.app](https://namke.vercel.app/)
