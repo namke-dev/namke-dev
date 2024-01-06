@@ -1,11 +1,11 @@
 ### 👋 Greetings
 
-Hello 🤸, I'm a Backend Developer with experience in web application development.
+ 👋 I'm a Software Developer with substantial expertise in web application development.
 
 💻 My experience includes:
 - Main skills: Developing applications using ASP.NET and REST API, Using algorithms to solve problems
 - Proficient: Querying and building data schema in SQL.
-- Has experience with .NET WinForms, Flutter, Angular.
+- Has experience with .NET WinForms, Flutter, and Angular.
 - Knowledgeable about Project Development Processes, Agile, Scrum
 - Languages Coursework: Upper Intermediate English
 
