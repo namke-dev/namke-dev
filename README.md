@@ -1,6 +1,7 @@
 ### 👋 Greetings
 
- 👋 I'm a Software Developer with substantial expertise in web application development.
+ I'm a Software Developer with substantial expertise in web application development.
+
 
 💻 My experience includes:
 - Main skills: Developing applications using ASP.NET and REST API, Using algorithms to solve problems
