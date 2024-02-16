@@ -22,3 +22,9 @@
 
 
 ### 🎯 My portfolio: [namke.vercel.app](https://namke.vercel.app/)
+### Project demo:
+[3D Catalog Showcase](https://d3catalog.vercel.app/show-case)
+
+[DevStock](https://devstock.vercel.app/)
+
+[Dev Tubes](https://dev-tubes.vercel.app)
