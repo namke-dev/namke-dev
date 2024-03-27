@@ -21,10 +21,14 @@
 - Collaborate and communicate effectively with diverse teams and stakeholders
 
 
-### 🎯 My portfolio: [namke.vercel.app](https://namke.vercel.app/)
+### 🎯 My portfolio: [namke.vercel.app](https://namke.vercel.app/); [namke.work](https://namke.work/)
 ### Project demo:
-[3D Catalog Showcase](https://d3catalog.vercel.app/show-case)
+[3D Catalog](https://d3catalog.vercel.app)
+[3D Catalog - link 2](https://katalog3d.com)
 
 [DevStock](https://devstock.vercel.app/)
+[DevStock - link 2](https://devstock.online)
 
 [Dev Tubes](https://dev-tubes.vercel.app)
+[Dev Tubes - link 2](https://dev-tubes.vercel.app)
+
